@@ -7,4 +7,4 @@
 </div>
 
 
- [Preview](https://{your-web-site-link}](https://immadsidd.github.io/checkout-page-master/index.html))
+ [Preview](https://immadsidd.github.io/checkout-page-master/index.html)
