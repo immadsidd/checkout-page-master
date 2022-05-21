@@ -118,7 +118,7 @@ border-radius: 12px;
 footer{
     padding-bottom: 30px;
     position: absolute;
-width: 400px;
+width: 300px;
 height: 17px;
 left: 575px;
 top: 1099px;
@@ -172,7 +172,7 @@ a:hover{
     }
 
     footer{
-        left: 42px;
+        left: 25px;
         top: 1610px;
     }
 }
